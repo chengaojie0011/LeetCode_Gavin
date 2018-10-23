@@ -7,7 +7,8 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Two Sum](https://leetcode-cn.com/problems/two-sum/description/)|C++|Easy|
+|1|[两数之和](https://leetcode-cn.com/problems/two-sum/description/)|C++|Easy|
+|724|[寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index/description/)|C++|Easy|
 
 
 
